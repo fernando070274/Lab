@@ -1,0 +1,50 @@
+header{
+    background-color: #125784;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+footer{
+    background-color: black;
+}
+
+body{
+    padding: 0px;
+}
+
+footer div + div{
+    color: white;
+}
+
+article > aside{
+    background-color: #5e35b1;
+}
+
+article > aside > form{
+    text-align: center;
+    padding: 10px;
+}
+
+article > aside > form > div{
+    background-color: white;
+}
+
+.first{
+    background: url("../img/img1.jpg");
+    color: white;
+    height: 100%;
+    width: auto;
+    padding: 150px;
+}
+
+.second{
+    background-color: #f57f17;
+    color: white;
+    padding: 20px;
+}
