@@ -1,11 +1,26 @@
 /** Step one **/
-
+h1,h2,h3,h4,h5,h6{
+    font-family: "Dancing Script", sans-serif;
+}
 /** Step two **/
 
 /** Step three **/
-
+h1{
+    font-size: 46px;
+    letter-spacing: 1.8px;
+    text-align: center;
+    color: brown;
+}
 /** Step four **/
-
+p,a,li{
+    font-family: "Playpen Sans", sans-serif;
+}
 /** Step five **/
-
+p span{
+    color: burlywood;
+}
 /** Step six **/
+h3{
+    font-size: 30px;
+    text-shadow: 4px 3px 4px rgba(0,0,0,.4);
+}
